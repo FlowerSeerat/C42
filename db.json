@@ -1,0 +1,22 @@
+{
+  "carsAtEnd" : 0,
+  "gameState" : 1,
+  "playerCount" : 2,
+  "players" : {
+    "player1" : {
+      "name" : "seerat",
+      "positionX" : 554.5,
+      "positionY" : 0,
+      "rank" : 0,
+      "score" : 0
+    },
+    "player2" : {
+      "life" : 0,
+      "name" : "Seerat",
+      "positionX" : 699.5,
+      "positionY" : 0,
+      "rank" : 0,
+      "score" : 0
+    }
+  }
+}
